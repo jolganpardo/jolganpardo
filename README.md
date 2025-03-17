@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jolgan Pardo</h1>
+<h1 align="center">Hi 👋, I'm Jolgan David Pardo Galvis</h1>
 <h3 align="center">My hobbies are reading, learning new and useful things for my daily life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jolganpardo&label=Profile%20views&color=0e75b6&style=flat" alt="jolganpardo" /> </p>
